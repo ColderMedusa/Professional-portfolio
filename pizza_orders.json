@@ -1,0 +1,29 @@
+[
+    {
+        "orderdatetime": "2025-07-11-20:38:11",
+        "pizza_type": "Hawaiian",
+        "order_type": "box",
+        "quantity": 1,
+        "total_price": 5.5,
+        "discount_applied": false,
+        "tax": 0.28
+    },
+    {
+        "orderdatetime": "2025-07-11-20:42:55",
+        "pizza_type": "Pepperoni",
+        "order_type": "slice",
+        "quantity": 4,
+        "total_price": 2.0,
+        "discount_applied": false,
+        "tax": 0.15
+    },
+    {
+        "orderdatetime": "2025-07-11-20:43:14",
+        "pizza_type": "Pepperoni",
+        "order_type": "box",
+        "quantity": 1,
+        "total_price": 4.0,
+        "discount_applied": false,
+        "tax": 0.3
+    }
+]
